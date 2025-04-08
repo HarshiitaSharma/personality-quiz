@@ -1,4 +1,4 @@
-# Personality quiz; Chrome extension 
+# Buzzfees style - Personality quiz; Chrome extension 
 
 You are required to complete three parts of the assignment:
 
